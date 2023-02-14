@@ -1,4 +1,28 @@
-# Meu Primeiro App
- Meu primeiro App para Android
+# Calculadora de IMC
+ My first App in Android is a IMC calculator., I developed this app in the 10D challenge in the DevSpace Community.
 
-![image](https://user-images.githubusercontent.com/123673207/214941242-ce561d43-d4d8-4f43-ac89-db623066b6bd.png)
+## :camera_flahs: Screenshots
+<img src="telainicialpixel2.png" width="260>&emsp;<img src="2TELA.png" width="260>
+
+## Tecnologies
+* Kotlin
+* Activity for screen hosts
+* ViewGroup
+    * RelativeLayout
+    * LinearLayout
+* UI Components
+    * TextView
+    * EditText
+    * Button
+    * TableLayout
+* Toast to display messages
+* Explicity Intent to open the second Activity
+* FindViewById to recovery the UI Components
+* Strings resource to concatenate the texts
+
+## TODO
+
+- Improve the UI 
+
+## Author
+Lucas Lemes de Siqueira (follow me on Linkedin: [Linkedin](https://www.linkedin.com/in/lucaslsiqueira))
