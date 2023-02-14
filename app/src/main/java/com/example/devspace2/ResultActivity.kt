@@ -40,7 +40,7 @@ class ResultActivity : AppCompatActivity() {
         } else if (result >= 30f && result <= 39.9f) {
             classificao = "OBESIDADE"
         } else{
-            classificao = "OBESIDADE GRAVE"
+            classificao = "OBESIDADE MÓRBIDA"
         }
 
 
