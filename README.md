@@ -2,7 +2,7 @@
  My first App in Android is a IMC calculator., I developed this app in the 10D challenge in the DevSpace Community.
 
 ## :camera_flahs: Screenshots
-<img src="telainicialpixel2.png" width="260>&emsp;<img src="2TELA.png" width="260>
+<img src="TELAINICIALPIXEL2.png" width="260">&emsp;<img src="2TELA.png" width="260">
 
 ## Tecnologies
 * Kotlin
